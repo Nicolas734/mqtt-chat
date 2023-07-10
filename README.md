@@ -11,9 +11,7 @@ Este é um chat criado usando MQTT (Message Queuing Telemetry Transport). Este d
 
 1. Crie um ambiente virtual Python (venv):
 
-   ```bash
-   python -m venv venv
-    ```
+
 ```bash
 python -m venv venv
 ```
